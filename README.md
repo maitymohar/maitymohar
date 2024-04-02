@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@moharmaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@moharmaity" height="30" width="40" /></a>
-<a href="https://linkedin.com/mohar-maity-56ab26250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohar-maity-56ab26250" height="30" width="40" /></a>
+<a href="https://dev.to/@moharmaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@moharmaity" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohar-maity-56ab26250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohar-maity-56ab26250" height="30" width="40" /></a>
 <a href="https://codesandbox.com/maitymohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="maitymohar" height="30" width="40" /></a>
 </p>
 
